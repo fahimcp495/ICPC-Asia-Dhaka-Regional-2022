@@ -35,7 +35,6 @@ void solve() {
         }
         else if (!(y & v))  y |= v, cnt++;
       }
-
     }
   }
 
@@ -45,7 +44,6 @@ void solve() {
       return ;
     }
   }
-
 }
 
 int main(){
